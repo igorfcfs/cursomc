@@ -12,7 +12,7 @@ import com.igorfcfs.cursomc.domain.Cliente;
 import com.igorfcfs.cursomc.domain.Endereco;
 import com.igorfcfs.cursomc.domain.Estado;
 import com.igorfcfs.cursomc.domain.Produto;
-import com.igorfcfs.cursomc.domains.enums.TipoCliente;
+import com.igorfcfs.cursomc.domain.enums.TipoCliente;
 import com.igorfcfs.cursomc.repositories.CategoriaRepository;
 import com.igorfcfs.cursomc.repositories.CidadeRepository;
 import com.igorfcfs.cursomc.repositories.ClienteRepository;

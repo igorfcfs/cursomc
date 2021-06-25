@@ -1,4 +1,4 @@
-package com.igorfcfs.cursomc.domains.enums;
+package com.igorfcfs.cursomc.domain.enums;
 
 public enum TipoCliente {
 	
